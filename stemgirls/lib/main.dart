@@ -5,7 +5,7 @@ import './about.dart' as about;
 
 void main() {
   runApp(new MaterialApp(
-    
+    home: new MyTabs()
   ));
 }
 
